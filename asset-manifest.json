@@ -1,21 +1,21 @@
 {
   "files": {
-    "main.css": "/static/css/main.6e989401.chunk.css",
-    "main.js": "/static/js/main.eff6f3e5.chunk.js",
-    "main.js.map": "/static/js/main.eff6f3e5.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.0a2e766a.js",
-    "runtime-main.js.map": "/static/js/runtime-main.0a2e766a.js.map",
-    "static/js/2.1074ad78.chunk.js": "/static/js/2.1074ad78.chunk.js",
-    "static/js/2.1074ad78.chunk.js.map": "/static/js/2.1074ad78.chunk.js.map",
-    "index.html": "/index.html",
-    "static/css/main.6e989401.chunk.css.map": "/static/css/main.6e989401.chunk.css.map",
-    "static/js/2.1074ad78.chunk.js.LICENSE.txt": "/static/js/2.1074ad78.chunk.js.LICENSE.txt",
-    "static/media/arrow-minus.5b7e6b7c.svg": "/static/media/arrow-minus.5b7e6b7c.svg",
-    "static/media/arrow-plus.cc620661.svg": "/static/media/arrow-plus.cc620661.svg",
-    "static/media/wallet-icon.a7b25907.png": "/static/media/wallet-icon.a7b25907.png"
+    "main.css": "/e-wallet/static/css/main.6e989401.chunk.css",
+    "main.js": "/e-wallet/static/js/main.eff6f3e5.chunk.js",
+    "main.js.map": "/e-wallet/static/js/main.eff6f3e5.chunk.js.map",
+    "runtime-main.js": "/e-wallet/static/js/runtime-main.3dadf1ad.js",
+    "runtime-main.js.map": "/e-wallet/static/js/runtime-main.3dadf1ad.js.map",
+    "static/js/2.1074ad78.chunk.js": "/e-wallet/static/js/2.1074ad78.chunk.js",
+    "static/js/2.1074ad78.chunk.js.map": "/e-wallet/static/js/2.1074ad78.chunk.js.map",
+    "index.html": "/e-wallet/index.html",
+    "static/css/main.6e989401.chunk.css.map": "/e-wallet/static/css/main.6e989401.chunk.css.map",
+    "static/js/2.1074ad78.chunk.js.LICENSE.txt": "/e-wallet/static/js/2.1074ad78.chunk.js.LICENSE.txt",
+    "static/media/arrow-minus.5b7e6b7c.svg": "/e-wallet/static/media/arrow-minus.5b7e6b7c.svg",
+    "static/media/arrow-plus.cc620661.svg": "/e-wallet/static/media/arrow-plus.cc620661.svg",
+    "static/media/wallet-icon.a7b25907.png": "/e-wallet/static/media/wallet-icon.a7b25907.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.0a2e766a.js",
+    "static/js/runtime-main.3dadf1ad.js",
     "static/js/2.1074ad78.chunk.js",
     "static/css/main.6e989401.chunk.css",
     "static/js/main.eff6f3e5.chunk.js"
